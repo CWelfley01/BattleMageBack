@@ -8,10 +8,10 @@ name = "pypi"
 [packages]
 
 flask = "*"
-flask-sqlalchemy ; "*"
-flask-marshmallow ; "*"
-marshmallow-sqlalchemy ; "*"
-flask-cors ; "*"
+flask-sqlalchemy = "*"
+flask-marshmallow = "*"
+marshmallow-sqlalchemy = "*"
+flask-cors = "*"
 gunicorn= "*"
 
 
